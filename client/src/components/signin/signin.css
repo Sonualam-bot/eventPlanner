@@ -1,0 +1,9 @@
+.signin {
+  height: 90vh;
+}
+
+.signin div .error {
+  margin-top: 1rem;
+  color: red;
+  text-align: center;
+}

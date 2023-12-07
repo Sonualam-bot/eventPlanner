@@ -1,0 +1,10 @@
+.signup {
+  height: 90vh;
+}
+
+.signup div .error {
+  width: 300px;
+  margin-top: 1rem;
+  color: red;
+  text-align: center;
+}
